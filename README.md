@@ -1,6 +1,9 @@
 # PicPay Clone
 
-<img alt="PicPay" title="#delicinha" src="https://github.com/RBioZ/PicPay---Clone/blob/master/screenshots/1.jpg?raw=true" width="200px" />
+<p align="center">
+  <img alt="PicPay" title="#delicinha" src="https://github.com/RBioZ/PicPay---Clone/blob/master/screenshots/1.jpg?raw=true" width="200px" />
+  <img alt="PicPay2" title="#delicinha" src="https://github.com/RBioZ/PicPay---Clone/blob/master/screenshots/2.jpg?raw=true" width="200px" />
+</P
 
 Este é o repositório com o código fonte desenvolvido durante as aulas disponíveis no [YouTube](https://youtu.be/0CraBZHejKI) onde criamos um clone do aplicativo PicPay utilizando React Native, Styled Components e React Navigation 5.
 
